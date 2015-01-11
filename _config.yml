@@ -1,7 +1,7 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://elle-height.ellekasai.com" # the base hostname & protocol for your site
 title: "elle-height"
-photo: "elle-height-s.png"
+photo: "/elle-height-s.png"
 
 # This is used by feed.xml. Uncomment if you want to use it.
 description: "バンクーバーでUI/UXデザイナーになるべく奮闘中の､笠井枝理依のPodcast番組です｡異国の地で日々どんな勉強をしているのか､リラックスモードでお話します!"
