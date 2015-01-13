@@ -7,7 +7,7 @@ layout: nil
   <channel>
 
     <title>elle-height</title>
-    <description>バンクーバーでUI/UXデザイナーになるべく奮闘中の､笠井枝理依のPodcast番組です｡異国の地で日々どんな勉強をしているのか､リラックスモードでお話します!</description>
+    <description>バンクーバーで奮闘中のElle Kasaiによる､Tech系Podcastです｡日々どんな勉強をしているのか､リラックスモードでお話します!</description>
     <link>http://elle-height.ellekasai.com/</link>
     <language>ja-jp</language>
     <generator>Jekyll</generator>
@@ -18,7 +18,7 @@ layout: nil
 
     <itunes:author>Elle Kasai</itunes:author>
     <itunes:subtitle>A Podcast by Elle Kasai. Talking about UI/UX design, coding, and her daily life in Vancouver.</itunes:subtitle>
-    <itunes:summary>バンクーバーでUI/UXデザイナーになるべく奮闘中の､笠井枝理依のPodcast番組です｡異国の地で日々どんな勉強をしているのか､リラックスモードでお話します!</itunes:summary>
+    <itunes:summary>バンクーバーで奮闘中のElle Kasaiによる､Tech系Podcastです｡日々どんな勉強をしているのか､リラックスモードでお話します!</itunes:summary>
     <itunes:keywords>tech,technology,programming,html,css,javascript,ui,ux,web,design,designer,vancouver,japan,development,software,study,career</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
