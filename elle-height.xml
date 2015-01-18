@@ -12,7 +12,6 @@ layout: nil
     <language>ja-jp</language>
     <generator>Jekyll</generator>
     <copyright>&#x2117; &amp; &#xA9;{{ site.time | date:"%Y" }} Elle Kasai.</copyright>
-
     <media:keywords>tech,technology,programming,html,css,javascript,ui,ux,web,design,designer,vancouver,japan,development,software,study,career</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
 
@@ -29,7 +28,7 @@ layout: nil
     <itunes:category text="Technology" />
     <itunes:category text="Design" />
     <itunes:category text="Careers" />
-    <itunes:new-feed-url>http://elle-height.ellekasai.com/elle-height.xml</itunes:new-feed-url>
+    <itunes:new-feed-url>http://feedpress.me/elle-height</itunes:new-feed-url>
 
     {% for post in site.posts %}
      <item>
