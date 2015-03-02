@@ -26,8 +26,6 @@ layout: nil
     </itunes:owner>
     <itunes:image href="http://elle-height.ellekasai.com/elle-height.png" />
     <itunes:category text="Technology" />
-    <itunes:category text="Design" />
-    <itunes:category text="Careers" />
     <itunes:new-feed-url>http://feedpress.me/elle-height</itunes:new-feed-url>
 
     {% for post in site.posts %}
